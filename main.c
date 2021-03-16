@@ -6,7 +6,6 @@ void deQueue();
 void display();
 
 int queue[SIZE], front = -1, rear = -1;
-
 int main()
 {
    int value, choice;
